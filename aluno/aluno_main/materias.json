@@ -1,0 +1,76 @@
+[
+	{
+		"image": "materias/matematica.jpg",
+		"title": "Matemática",
+		"nota1": 9.5,
+		"nota2": 6.0,
+		"nota3": 7.8,
+		"nota4": 10.00
+	},
+	{
+		"image": "materias/portugues.jpg",
+		"title": "Português",
+		"nota1": 6.0,
+		"nota2": 6.5,
+		"nota3": 7.8,
+		"nota4": 8.5
+	},
+	{
+		"image": "materias/historia.jpg",
+		"title": "História",
+		"nota1": 8.9,
+		"nota2": 9.0,
+		"nota3": 9.5,
+		"nota4": 7.5
+	},
+	{
+		"image": "materias/geografia.jpg",
+		"title": "Geografia",
+		"nota1": 9.5,
+		"nota2": 10.00,
+		"nota3": 6.4,
+		"nota4": 7.9
+	},
+
+	{
+		"image": "materias/fisica.jpg",
+		"title": "Física",
+		"nota1": 6.2,
+		"nota2": 7.6,
+		"nota3": 8.7,
+		"nota4": 9.5
+	},
+	{
+		"image": "materias/literatura.jpg",
+		"title": "Literatura",
+		"nota1": 9.5,
+		"nota2": 9.5,
+		"nota3": 9.5,
+		"nota4": 9.5
+	},
+	{
+		"image": "materias/capoeira_infantil.jpeg",
+		"title": "Matéria Extra - Capoeira",
+		"nota1": 9.5,
+		"nota2": 9.5,
+		"nota3": 9.5,
+		"nota4": 9.5
+	},
+	{
+		"image": "materias/bale_infantil.jpg",
+		"title": "Matéria Extra - Balé",
+		"nota1": 9.5,
+		"nota2": 9.5,
+		"nota3": 9.5,
+		"nota4": 9.5
+	},
+	{
+		"image": "materias/karate_infantil.jpg",
+		"title": "Matéria Extra - Karatê",
+		"nota1": 9.5,
+		"nota2": 9.5,
+		"nota3": 9.5,
+		"nota4": 9.5
+	}
+
+]

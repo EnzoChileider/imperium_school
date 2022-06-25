@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&family=Permanent+Marker&family=Poppins:wght@300&family=Roboto:wght@100&family=Rubik:wght@500&display=swap" rel="stylesheet">    
+    <link rel="stylesheet" href="/aluno/style_aluno.css">
+    <title>Login Aluno</title>
+</head>
+<body>
+    <div class="acesso_aluno">
+
+        <div class="login_aluno">
+            <h1>Bem vindo Aluno !</h1>
+       </div>
+
+       <div class="form_aluno">
+           <h1>Digite suas credencias abaixo : </h1>
+           <h1>Nome : </h1>
+                <input type="text" placeholder="Insira aqui seu nome" id="name">
+                <h1>Código de Acesso : </h1>
+                <input type="text" placeholder="Código de Acesso" id="cod">
+                <h1>Data de Nascimento : </h1>
+                <input type="text" placeholder="Data de nascimento" id="data_nascimento">
+                <h1>Sexo : </h1>
+                <input type="text" placeholder="" id="sexo">
+                <h1>Email para contato : </h1>
+                <input type="text" placeholder="Email" id="email">
+                <h1>Série : </h1>
+                <input type="text" placeholder="Série" id="serie">
+                <textarea name="text" id="box" cols="30" rows="10" placeholder="Informações Complementares"></textarea>
+                <button id="enviar_comentario" onclick="saveData()"><a href="aluno_main/aluno_main.html">Enviar</a></button>
+
+           <a href="aluno_main/aluno_main.html"><button>Fazer login</button></a>
+           <a href="/index.html"><button id="voltar"> ← Voltar</button></a>
+       </div>
+   </div>
+
+    </div>
+    <script src="cadastro_aluno.js"></script>
+
+</body> 
+</html>
